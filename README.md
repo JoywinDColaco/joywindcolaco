@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building technical skills.
+- 🌱 I’m currently learning SQL, Excel, and Python
+
 <!--
 **JoywinDColaco/joywindcolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
