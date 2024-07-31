@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building technical skills.
+- 🔭 I’m currently working on building my technical skills.
 - 🌱 I’m currently learning SQL, Excel, and Python.
 
 <!--
